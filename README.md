@@ -40,6 +40,7 @@ The final texture atlas will be `Width * 4 x Height * 2` pixels in size.
 
 `Save as .png` Saves textures to disk as .png files, otherwise saves them as native Texture2D assets. Only available if not packing.
 
+### Example
 
 GUI, and resulting billboard (left) creatad from a 3D object (right)
 
