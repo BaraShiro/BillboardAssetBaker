@@ -42,7 +42,7 @@ The final texture atlas will be `Width * 4 x Height * 2` pixels in size.
 
 ### Example
 
-GUI, and resulting billboard (left) creatad from a 3D object (right)
+GUI, and resulting billboard (left) created from a 3D object (right)
 
 ![BillboardAssetBaker](https://user-images.githubusercontent.com/17293533/223401551-1b31935e-645f-456e-b9c3-c4e87310f67c.png)
 
